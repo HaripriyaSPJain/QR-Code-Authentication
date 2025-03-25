@@ -20,11 +20,13 @@ The dataset contains:
 
 ---
 
-##Outputs
+## Outputs
 Output 1:
+
 ![image](https://github.com/user-attachments/assets/08392a8e-8767-44a4-b344-e678720bdacf)
 
 Output 2:
+
 ![image](https://github.com/user-attachments/assets/a04c647f-0021-42b7-a648-d23de055ad0f)
 
 
