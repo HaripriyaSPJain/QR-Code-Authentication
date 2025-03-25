@@ -20,7 +20,18 @@ The dataset contains:
 
 ---
 
+##Outputs
+Output 1:
+![image](https://github.com/user-attachments/assets/08392a8e-8767-44a4-b344-e678720bdacf)
+
+Output 2:
+![image](https://github.com/user-attachments/assets/a04c647f-0021-42b7-a648-d23de055ad0f)
+
+
 ## 🔧 Installation
 To set up the environment, install the required dependencies:
 ```bash
 pip install opencv-python numpy pandas scikit-learn tensorflow matplotlib seaborn joblib
+
+
+
